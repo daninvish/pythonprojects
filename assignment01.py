@@ -1,0 +1,2 @@
+carname = "Subaru"
+print(carname)
